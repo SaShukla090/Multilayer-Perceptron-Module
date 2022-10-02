@@ -1,7 +1,9 @@
 # Multilayer-Perceptron-Module
+<img alt = "tanh" width = 154 scr = "https://github.com/SaShukla090/Multilayer-Perceptron-Module/blob/master/tanh.jpg">
 ## Neural Network implementation from scratch
 ### File "DL_Assignment1_19301.ipynb" has example implementation of Simple ANN with Adam opimizer.
 ### Currently module supports
+
  - Adam opimizer with batch size 1
  - Fully connected layers of any size
  - Activation layer with 
